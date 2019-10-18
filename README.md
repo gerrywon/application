@@ -1,6 +1,6 @@
 # How to obtain your blockchain application ID
 
-Confirm your application by interacting with our HR smart contract on the Ethereum Ropsten network:
+Confirm your application by interacting with smart contract on the Ethereum Ropsten network:
 
 1. Submit a hash (Keccak-256) of your email address using the `apply()` function.
 2. Retrieve your application ID using the `getApplicationID()` function.
